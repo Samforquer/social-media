@@ -1,6 +1,6 @@
 # social-media
 Collaborated with other developers to create a RESTful API using Spring Boot, JPA, and Postgresql that exposes operations for social media data that resembles the conceptual model of Twitter.
-# My Contribution to a Twitter-like RESTful API Group Project
+# Social-Media RESTful API Group Project
 
 ## Overview
 
